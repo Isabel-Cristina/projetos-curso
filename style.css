@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.titulo{
+    background-color: rgb(50, 163, 163);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+    border-radius: 10%;
+}
+
+.categorias {
+    display: inline-block; /*ocupa apenas o espaço desejado*/
+    width: 20%;
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    border: 1px solid black;
+}
+
+.principal{
+    text-align: center;
+}
+body{background-color: cadetblue; /*para mudar cor de fundo da tela*/
+
+}
